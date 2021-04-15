@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hospital-demo.github.io.git/static/css/main.59c28552.chunk.css",
+    "main.js": "/hospital-demo.github.io.git/static/js/main.5466a1c6.chunk.js",
+    "main.js.map": "/hospital-demo.github.io.git/static/js/main.5466a1c6.chunk.js.map",
+    "runtime-main.js": "/hospital-demo.github.io.git/static/js/runtime-main.e352f63c.js",
+    "runtime-main.js.map": "/hospital-demo.github.io.git/static/js/runtime-main.e352f63c.js.map",
+    "static/css/2.65af8127.chunk.css": "/hospital-demo.github.io.git/static/css/2.65af8127.chunk.css",
+    "static/js/2.f0e02a65.chunk.js": "/hospital-demo.github.io.git/static/js/2.f0e02a65.chunk.js",
+    "static/js/2.f0e02a65.chunk.js.map": "/hospital-demo.github.io.git/static/js/2.f0e02a65.chunk.js.map",
+    "static/js/3.27655ad4.chunk.js": "/hospital-demo.github.io.git/static/js/3.27655ad4.chunk.js",
+    "static/js/3.27655ad4.chunk.js.map": "/hospital-demo.github.io.git/static/js/3.27655ad4.chunk.js.map",
+    "index.html": "/hospital-demo.github.io.git/index.html",
+    "static/css/2.65af8127.chunk.css.map": "/hospital-demo.github.io.git/static/css/2.65af8127.chunk.css.map",
+    "static/css/main.59c28552.chunk.css.map": "/hospital-demo.github.io.git/static/css/main.59c28552.chunk.css.map",
+    "static/js/2.f0e02a65.chunk.js.LICENSE.txt": "/hospital-demo.github.io.git/static/js/2.f0e02a65.chunk.js.LICENSE.txt",
+    "static/media/best.0d00a97d.jpg": "/hospital-demo.github.io.git/static/media/best.0d00a97d.jpg",
+    "static/media/hos.9a20cc68.jpg": "/hospital-demo.github.io.git/static/media/hos.9a20cc68.jpg",
+    "static/media/logo.6ce24c58.svg": "/hospital-demo.github.io.git/static/media/logo.6ce24c58.svg",
+    "static/media/logo1.1ad6c247.png": "/hospital-demo.github.io.git/static/media/logo1.1ad6c247.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e352f63c.js",
+    "static/css/2.65af8127.chunk.css",
+    "static/js/2.f0e02a65.chunk.js",
+    "static/css/main.59c28552.chunk.css",
+    "static/js/main.5466a1c6.chunk.js"
+  ]
+}
